@@ -1,0 +1,24 @@
+---
+layout: project
+type: project
+image: img/Puzzle.png
+title: "MarsMarine"
+date: 2019
+published: true
+labels:
+  - Unreal Engine 4
+  - Blueprints
+  - C++
+summary: "I developed a top-down shooter game as part of a practical interview assignment to demonstrate my skills in Unreal Engine as well as C++"
+---
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+</div>
+
+This is a top down, twin stick shooter where the player has to survive waves of enemies to achieve a higher score. 
+Enemy AI uses pawnsensing to detect the player location and chase the player.
+This project was made using Unreal Engine 4's blueprint system with C++ and demonstrates proficiency in animation blueprints, blend spaces, and animation graphs. 
+All assets made by Gamedev.tv.
