@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Puzzle.png
+image: img/micromouse/Puzzle.png
 title: "PuzzlePlatforms"
 date: 2018
 published: true
