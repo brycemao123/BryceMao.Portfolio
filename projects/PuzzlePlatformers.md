@@ -19,5 +19,6 @@ summary: "I developed a multiplayer puzzle platformer game to demonstrate my ski
 </div>
 
 CO-OP puzzle game where both players need to achieve a task in order to progress through the level. 
-This project was made with Unreal Engine 4 using C++ classes. 
+This project was made with Unreal Engine 4 using C++ classes , as well as replication according to the Server Authorization Model.
 Players connect through LAN or through a hosted server such as Hamachi.
+
