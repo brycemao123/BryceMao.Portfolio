@@ -12,11 +12,13 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/Capture.png">
+
 
 ## Importance of UI Frameworks
 
 Coming into this class with very rusty knowledge of HTML, I thought that these past few weeks of using HTML and CSS to create webpages was going to be tough, but I don’t think it was too bad for me. That was until we started using Bootstrap 5, and I got lost on what to do. I found it to be as difficult as learning a whole new language, while still having to brush up on my old knowledge of HTML, but by the end, I understood why UI Frameworks are useful. Knowing what I know now, I would say that using strictly HTML and CSS would be extremely inefficient and leave better tools left on the table. One example that comes to mind is the BrowserHistory3 assignment where I would constantly go back and increment the positions to get the proper padding or spacing between columns or links. With Bootstrap 5, I can get more work done out of the time that I put into my code. Creating things such as a navbar, button, or collapsable menu with icons can be done in a couple minutes rather than manually writing each component by hand for hours. 
+
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/Capture.PNG">
 
 ## Why using UI Frameworks is important
 
