@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Importance of UI Frameworks"
+# All dates must be YYYY-MM-DD format!
+date: 2022-10-07
+published: true
+labels:
+  - HTML
+  - CSS
+  - Bootstrap 5
+---
+
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+
